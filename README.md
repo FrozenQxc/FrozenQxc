@@ -1,8 +1,8 @@
 ### Hi there ⚔
 
-###  Жестко учу програмирование 👺
+### Жестко учу програмирование 👺
 
-### Ни дня без програмирование 
+### Ни дня без програмирование 🎯
 
 <!--
 **FrozenQxc/FrozenQxc** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
